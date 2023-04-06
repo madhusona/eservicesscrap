@@ -1,0 +1,11 @@
+//*[@id="districtCode"]
+
+//*[@id="talukCode"]
+
+//*[@id="villageCode"]
+
+//*[@id="surveyNo"]
+
+//*[@id="subdivNo"]
+
+//*[@id="captcha"]
